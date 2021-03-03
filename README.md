@@ -5,7 +5,7 @@ Dog Adoption, an Android application using Jetpack Compose. Thinking to Adopt a 
 
 ## :bulb: Motivation and Context
 
-Making this applicaton usingg Jetpack was itself new Challenge. But when power of Jetpack Compose and Kotlin combines we see the really interesting  addition to that when you have a really Nice Application like Dog Adoption. 
+Making this applicaton using Jetpack was itself new Challenge. But when power of Jetpack Compose and Kotlin combines we see the really interesting and really Nice Application like Dog Adoption. 
 
 ## :camera_flash: Screenshots
 
